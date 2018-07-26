@@ -28,18 +28,18 @@ body{
 
 
 .contactButton{
-	color: #2F373E;
+	color: black;
 	padding: 15px 20px;
 	display: inline-block;
 	margin-top: 20px;
-	border: 1px solid #2F373E;
+	border: 1px solid black;
 	border-radius: 2px;
 }
 
 .contactButton:hover {
 	text-decoration: none;
 	color: #fff;
-	background-color: #2F373E; 
+	background-color: black; 
 }
 
 .copyrightSection{
